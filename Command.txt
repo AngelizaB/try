@@ -1,0 +1,9 @@
+"Commands for Github" 
+
+Blogsite/Mysite
+
+git init
+git add
+git commit -m "explanation"
+git push
+git log
